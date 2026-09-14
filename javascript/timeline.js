@@ -5,7 +5,7 @@ function mostrarAno(ano){
     if (ano == 2009) {
         
         informacao.innerHTML = `
-        <h2>O conflito que antecede o crime</h2>
+        <h2 class>O conflito que antecede o crime</h2>
         <p> Em 2009, ainda não existia o caso criminal que posteriormente dominaria o noticiário brasileiro. Bruno Fernandes de Souza era goleiro do Flamengo e vivia o auge de sua carreira. Foi naquele período que conheceu Eliza Samudio, com quem manteve um relacionamento.
 
         A relação ganharia um novo peso quando Eliza engravidou e passou a reivindicar o reconhecimento da paternidade. A situação criou um conflito entre os dois, justamente em um momento em que Bruno desfrutava de grande exposição pública e prestígio no futebol.
