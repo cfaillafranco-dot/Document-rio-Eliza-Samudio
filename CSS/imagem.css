@@ -9,3 +9,10 @@
     
 
 }
+
+.ocasoimagem img{
+    position: absolute;
+    left: 535px;
+    top: 270px;
+    height: 450px;
+}
