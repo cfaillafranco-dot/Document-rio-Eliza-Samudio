@@ -56,7 +56,14 @@ h2{
     left: 280px;
 }
 
+.legenda1{
+    position: absolute;
+    left: 520px;
+    top: 735px;
+}
+
 .texto1{
+    color: white;
     position: absolute;
     top: 800px;
     width: 70%;
