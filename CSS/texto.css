@@ -28,7 +28,7 @@
     
 }
 
-.Sobre{
+.o-caso{
     font-size: 20px;
     font-family: "Special Elite", serif;
     margin: 0;
@@ -36,6 +36,6 @@
     color: white;
     position: absolute;
     top: 30px;
-    left: 50px;
+    left: 50%;
 }
 
