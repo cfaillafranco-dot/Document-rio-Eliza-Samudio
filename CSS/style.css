@@ -4,7 +4,7 @@
 
 hr{
     border: 0;
-    margin: 0;
+    margin: 0px;
     height: 1px;
     background-color: #3A3A3A;
 }
@@ -31,7 +31,7 @@ hr{
     border: 0;
     margin: 0;
     background-color: #111111;
-    height: 1600px;
+    height: 1000px;
     position: relative;
 }
 
@@ -58,4 +58,10 @@ hr{
 .navbar a{
     color: white;
     text-decoration: none;
+}
+
+.galeria{
+    position: relative;
+    display: flex;
+    background-color: #111111;
 }

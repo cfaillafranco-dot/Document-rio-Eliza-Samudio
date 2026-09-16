@@ -1,0 +1,71 @@
+.fotos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin: 100px 0;
+    
+}
+
+.foto01 img{
+    height: 300px;
+    margin: 0 100px;
+    
+    
+}
+
+.foto02 img{
+    height: 300px;
+    margin: 0 100px;
+}
+
+.foto03 img{
+    height: 300px;
+    margin: 0 100px;
+}   
+
+.foto04 img{
+    height: 300px;
+    margin: 0 100px;
+}
+
+.foto05 img{
+    height: 300px;
+    width: 475px;
+    margin: 0 100px;
+}
+
+.foto06 img{
+    height: 300px;
+    width: 475px;
+    margin: 0 100px;
+}
+
+.foto01 p{
+    position: absolute;
+    left: 100px;
+}
+
+.foto02 p{
+    position: absolute;
+    left: 875px;
+}
+
+.foto03 p{
+position: absolute;
+    left: 100px;
+}
+
+
+.foto04 p{
+position: absolute;
+    left: 875px;
+}
+
+.foto05 p{
+position: absolute;
+    left: 100px;
+}
+.foto06 p{
+position: absolute;
+    left: 875px;
+}
