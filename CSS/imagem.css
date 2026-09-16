@@ -14,6 +14,10 @@
 
 }
 
+img {
+    max-width: 100%;
+}
+
 .banner img{
     height: 800px;
     width: 100%;
@@ -22,12 +26,30 @@
 
 }
 
-.ocasoimagem img{
-    height: 450px;
-    position: absolute;
-    top: 250px;
-    left: 530px;
+.ocasoimagems{
+    height: auto;
+    width: 80%;
+    max-width: 1400px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    
 }
 
+.ocasoimagems img{
+    width: 50%;
+    height: auto;
+}
+
+.logorodape{
+    padding-right: 30px;
+}
+
+.logorodape img{
+    height: 250px;
+    width: 100%;
+}
 
 

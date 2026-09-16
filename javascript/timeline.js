@@ -16,7 +16,7 @@ function mostrarAno(ano){
 
         Retrospectivamente, porém, 2009 se torna o primeiro capítulo de uma história que mudaria radicalmente no ano seguinte. O conflito pessoal estabeleceu o contexto que seria retomado pelos investigadores depois do desaparecimento de Eliza.
 
-        Por isso, 2009 representa a origem da história: é quando começa o conflito que antecede todos os acontecimentos posteriores. </p> <img src="Imagens/imagem2009.jfif" alt="">`;
+        Por isso, 2009 representa a origem da história: é quando começa o conflito que antecede todos os acontecimentos posteriores. </p> `;
         
         
     }
@@ -40,7 +40,7 @@ function mostrarAno(ano){
 
         Em poucos meses, Bruno havia passado de ídolo do futebol a principal acusado de um dos crimes mais comentados do país.
 
-        É por isso que 2010 é o ponto central de toda a cronologia: nele estão concentrados o desaparecimento, a investigação, as prisões e a ruptura definitiva da vida pública e profissional de Bruno. </p> <img src="Imagens/imagem2010.jfif" alt=""> `;
+        É por isso que 2010 é o ponto central de toda a cronologia: nele estão concentrados o desaparecimento, a investigação, as prisões e a ruptura definitiva da vida pública e profissional de Bruno. </p> `;
         
         
     }
@@ -68,7 +68,7 @@ function mostrarAno(ano){
 
         Mas 2013 não encerraria a história. A partir dali começaria outra batalha: a discussão sobre a pena, os recursos e as condições em que Bruno cumpriria a condenação.
 
-        Se 2010 foi o ano do desaparecimento, 2013 foi o ano da resposta judicial mais importante: Bruno foi condenado. </p> <img src="Imagens/imagem2013.jpg" alt=""> `;
+        Se 2010 foi o ano do desaparecimento, 2013 foi o ano da resposta judicial mais importante: Bruno foi condenado. </p> `;
         
         
     }
@@ -96,7 +96,7 @@ function mostrarAno(ano){
 
         A partir desse momento, o foco do caso começou a mudar. A grande questão já não era apenas o que havia acontecido com Eliza ou se Bruno seria condenado. A discussão passou a envolver quanto tempo ele permaneceria preso e quais seriam as condições para sua eventual liberdade.
 
-        Por isso, 2017 representa o início de uma nova fase: a história da execução da pena e das tentativas de Bruno de reconstruir sua vida depois da condenação. </p> <img src="Imagens/imagem2017.jpg" alt=""> `;
+        Por isso, 2017 representa o início de uma nova fase: a história da execução da pena e das tentativas de Bruno de reconstruir sua vida depois da condenação. </p> `;
                 
         
     }

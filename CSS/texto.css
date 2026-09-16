@@ -36,53 +36,68 @@ h2{
     
 }
 
-.subtitulo{
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font: 20px;
-    color: white;
+.topicos{
     
 }
 
-.o-caso{
-    font-size: 20px;
-    width: 70%;
+.topicos h1{
+    font-size: 40px;
+    padding-top: 20px;
+    color: white;
+    width: 100%;
+}
+
+.topicos h3{
     margin: 0;
-    border: 0;
     color: white;
-    text-align: center;
-    position: absolute;
-    top: 100px;
-    left: 280px;
+    width: 100%;
+}
+
+.topicos p:not(.subtitulo){
+    font-size: 20px;
+    color: white;
+    margin: 0 350px;
     
     
+    
 }
 
-.legenda1{
-    position: absolute;
-    left: 520px;
-    top: 735px;
+/*
+.subtitulo{
+    margin: 0 300px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    opacity: 80%;
+    text-align: left;
+    width: 100%;
+    
+}*/
+
+.encerramento{
+    padding-bottom: 40px;
+    width: 100%;
 }
 
-
-.texto1{
-    color: white;
-    position: absolute;
-    top: 800px;
-    width: 70%;
-    left: 280px;
-}
 
 .evidencias{
-    position: absolute;
-    bottom: 1260px;
-    left: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
 }
 
 .integrantes{
-    
-    text-align: center;
+    font-size: 15px;
     color: white;
-    position: absolute;
-    left: 50px;
+    text-align: center;
+    
+}
+
+.Fontes{
+    font-family: "Special Elite", serif;
+    font-size: 30px;
+}
+
+li{
+    color: white;
+    font-size: 25px;
 }

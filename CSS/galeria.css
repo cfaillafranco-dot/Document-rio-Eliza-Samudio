@@ -1,71 +1,76 @@
+
+
 .fotos{
     display: flex;
+    justify-content: center;
+    gap: 80px 20px;
+    width: 100%;
+    box-sizing: border-box;
     flex-wrap: wrap;
-    gap: 100px;
-    margin: 100px 0;
+    
     
 }
 
 .foto01 img{
     height: 300px;
-    margin: 0 200px;
+    width: 100%;
+    display: block;
     
     
 }
 
 .foto02 img{
     height: 300px;
-    margin: 0 200px;
+    width: 100%;
+    display: block;
 }
 
 .foto03 img{
     height: 300px;
-    margin: 0 200px;
+    width: 100%;
+    display: block;
 }   
 
 .foto04 img{
     height: 300px;
-    margin: 0 200px;
+    width: 470px;
+    display: block;
 }
 
 .foto05 img{
     height: 300px;
-    width: 475px;
-    margin: 0 200px;
+    width: 470px;
+    display: block;
+    
 }
 
 .foto06 img{
     height: 300px;
-    width: 475px;
-    margin: 0 200px;
+    width: 470px;
+    display: block;
+    
 }
 
 .foto01 p{
-    position: absolute;
-    left: 200px;
+    
 }
 
 .foto02 p{
-    position: absolute;
-    left: 1175px;
+    
 }
 
 .foto03 p{
-position: absolute;
-    left: 200px;
+
 }
 
 
 .foto04 p{
-position: absolute;
-    left: 1175px;
+
 }
 
 .foto05 p{
-position: absolute;
-    left: 200px;
+
 }
 .foto06 p{
-position: absolute;
-    left: 1175px;
+
 }
