@@ -78,3 +78,11 @@ h2{
     bottom: 1260px;
     left: 25px;
 }
+
+.integrantes{
+    
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 50px;
+}

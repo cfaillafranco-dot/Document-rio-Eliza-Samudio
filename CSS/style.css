@@ -36,8 +36,9 @@ hr{
 }
 
 .rodape{
+    background-color: black;
     border: 1px solid black;
-    height: 200px;
+    height: 400px;
 }
 
 .navbar{
@@ -59,20 +60,18 @@ hr{
     color: white;
     text-decoration: none;
 }
-<<<<<<< HEAD
 
 .galeria{
     position: relative;
     display: flex;
     background-color: #111111;
-=======
+}
+
 h3
 {
     text-align: center;
 }
-.laudo
 
-{
+.laudo{
     opacity: 40%;
->>>>>>> 63d68c8f5608a248c009e8c6c9934b04e8c5f163
 }

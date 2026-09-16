@@ -8,64 +8,64 @@
 
 .foto01 img{
     height: 300px;
-    margin: 0 100px;
+    margin: 0 200px;
     
     
 }
 
 .foto02 img{
     height: 300px;
-    margin: 0 100px;
+    margin: 0 200px;
 }
 
 .foto03 img{
     height: 300px;
-    margin: 0 100px;
+    margin: 0 200px;
 }   
 
 .foto04 img{
     height: 300px;
-    margin: 0 100px;
+    margin: 0 200px;
 }
 
 .foto05 img{
     height: 300px;
     width: 475px;
-    margin: 0 100px;
+    margin: 0 200px;
 }
 
 .foto06 img{
     height: 300px;
     width: 475px;
-    margin: 0 100px;
+    margin: 0 200px;
 }
 
 .foto01 p{
     position: absolute;
-    left: 100px;
+    left: 200px;
 }
 
 .foto02 p{
     position: absolute;
-    left: 875px;
+    left: 1175px;
 }
 
 .foto03 p{
 position: absolute;
-    left: 100px;
+    left: 200px;
 }
 
 
 .foto04 p{
 position: absolute;
-    left: 875px;
+    left: 1175px;
 }
 
 .foto05 p{
 position: absolute;
-    left: 100px;
+    left: 200px;
 }
 .foto06 p{
 position: absolute;
-    left: 875px;
+    left: 1175px;
 }
